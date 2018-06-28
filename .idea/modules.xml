@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ethApi.iml" filepath="$PROJECT_DIR$/ethApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coinApi.iml" filepath="$PROJECT_DIR$/coinApi.iml" />
     </modules>
   </component>
 </project>
